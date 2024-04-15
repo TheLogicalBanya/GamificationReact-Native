@@ -1,0 +1,36 @@
+{
+  "name": "gamification-react-native",
+  "version": "1.0.2",
+  "description": "SDK for gamification for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-gamification",
+    "gamification",
+    "gamification-react",
+    "gamification-react-native",
+    "gamification-native",
+    "react-gamification",
+    "native-gamification"
+  ],
+  "author": "Nilede Technologies",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.3",
+    "aes-everywhere": "^1.0.0",
+    "base-64": "^1.0.0",
+    "react-native-webview": "^13.6.4",
+    "react-native-orientation-locker": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLogicalBanya/GamificationReact-Native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheLogicalBanya/GamificationReact-Native/issues"
+  },
+  "homepage": "https://github.com/TheLogicalBanya/GamificationReact-Native#readme"
+}
